@@ -1,6 +1,6 @@
 # Convergence Finance Security Review
 
-This security review provides a detailed compilation of all identified vulnerabilities and recommendations submitted as part of the Convergence Finance competition on Hats in September 2023.
+This security review provides a detailed compilation of all identified vulnerabilities and recommendations I submitted as part of the Convergence Finance competition on Hats in September 2023.
 
 |   No.   |   Issue  | Instances |
 |---------|----------|-----------|
