@@ -1,6 +1,6 @@
 # T-Swap Security Review
 
-This security review provides a detailed compilation of all identified vulnerabilities and recommendations I submitted as part of the T-Swap First Flight on CodeHawks in March 2024.
+This security review provides a detailed compilation of all identified vulnerabilities and recommendations I submitted as part of Cyfrin Updraft's T-Swap audit in March 2024.
 
 |   Severity   |   Issue   | 
 |--------------|-----------|
