@@ -1,6 +1,6 @@
-# Convergence Finance Security Review
+# Convergence Finance Review
 
-This security review provides a detailed compilation of all identified vulnerabilities and recommendations I submitted as part of the Convergence Finance competition on Hats in September 2023.
+In the Convergence Finance competition on Hats in September 2023, I focused exclusively on gas optimization, which placed me #1 on the gas optimization leaderboard for this contest. Here are my submissions:
 
 |   No.   |   Issue  | Instances |
 |---------|----------|-----------|
